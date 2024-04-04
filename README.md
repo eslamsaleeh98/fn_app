@@ -1,5 +1,3 @@
-# fn_app
-FN App
 ![6.7-inch Screenshot 1.jpg](fn_app/app-screenshots/6.7-inch Screenshot 1.jpg).
 ![6.7-inch Screenshot 2..jpg](fn_app/app-screenshots/6.7-inch Screenshot 2..jpg).
 ![6.7-inch Screenshot 3.jpg](fn_app/app-screenshots/6.7-inch Screenshot 3.jpg).
